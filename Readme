@@ -1,0 +1,6 @@
+how to compile:
+latex youfilename.tex
+dvips yourfilename.dvi
+ps2pdf yourfilename.ps
+
+by xzgao
